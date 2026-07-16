@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
