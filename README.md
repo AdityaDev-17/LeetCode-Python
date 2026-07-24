@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0045-jump-game-ii) |
+| [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
