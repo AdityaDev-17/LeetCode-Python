@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
