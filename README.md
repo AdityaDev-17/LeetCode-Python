@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
