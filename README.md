@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
