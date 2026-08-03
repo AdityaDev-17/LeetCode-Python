@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -135,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
