@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
