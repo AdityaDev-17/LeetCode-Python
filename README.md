@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Divide and Conquer
 |  |
 | ------- |
