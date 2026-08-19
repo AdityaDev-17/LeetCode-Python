@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Matrix
 |  |
 | ------- |
