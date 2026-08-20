@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
