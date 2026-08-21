@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 ## Counting
