@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0079-word-search) |
 | [0500-keyboard-row](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
