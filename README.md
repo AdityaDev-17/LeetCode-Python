@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
 ## Divide and Conquer
 |  |
 | ------- |
