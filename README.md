@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0219-contains-duplicate-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0048-rotate-image) |
+| [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0189-rotate-array) |
 ## String
@@ -276,4 +279,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
