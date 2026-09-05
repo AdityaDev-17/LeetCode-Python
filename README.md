@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0139-word-break) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0139-word-break) |
 | [0313-super-ugly-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0313-super-ugly-number) |
