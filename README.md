@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0149-max-points-on-a-line) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
