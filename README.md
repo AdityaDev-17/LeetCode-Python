@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0384-shuffle-an-array) |
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0384-shuffle-an-array) |
 ## String
 |  |
 | ------- |
@@ -390,8 +392,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0384-shuffle-an-array) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
