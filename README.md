@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## String
 |  |
 | ------- |
