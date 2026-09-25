@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
 | [0500-keyboard-row](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
 ## String
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
+| [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
 ## Counting
 |  |
 | ------- |
