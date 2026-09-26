@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -412,4 +415,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0384-shuffle-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
