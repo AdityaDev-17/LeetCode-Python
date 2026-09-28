@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## String
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0209-minimum-size-subarray-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Design
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0384-shuffle-an-array) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Recursion
 |  |
 | ------- |
@@ -431,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
