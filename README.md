@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0553-optimal-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+| [0553-optimal-division](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0553-optimal-division) |
 ## Math
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0553-optimal-division) |
 ## String
 |  |
 | ------- |
