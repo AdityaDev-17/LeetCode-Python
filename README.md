@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0667-beautiful-arrangement-ii) |
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
 | [0775-global-and-local-inversions](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0775-global-and-local-inversions) |
+| [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
 ## Two Pointers
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
+| [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
 ## Matrix
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0553-optimal-division) |
 | [0667-beautiful-arrangement-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0667-beautiful-arrangement-ii) |
 | [0775-global-and-local-inversions](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0775-global-and-local-inversions) |
+| [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
 ## String
 |  |
 | ------- |
