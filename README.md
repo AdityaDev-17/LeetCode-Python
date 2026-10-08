@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
 | [0775-global-and-local-inversions](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
+| [0789-escape-the-ghosts](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
 ## Two Pointers
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0667-beautiful-arrangement-ii) |
 | [0775-global-and-local-inversions](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
+| [0789-escape-the-ghosts](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0789-escape-the-ghosts) |
 ## String
 |  |
 | ------- |
