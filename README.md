@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
+| [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
 | [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
+| [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0200-number-of-islands) |
+| [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0775-global-and-local-inversions) |
 | [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0789-escape-the-ghosts) |
+| [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 ## String
 |  |
 | ------- |
