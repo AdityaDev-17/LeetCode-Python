@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0553-optimal-division) |
+| [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
 | [0789-escape-the-ghosts](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -459,14 +462,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 ## Reservoir Sampling
 |  |
 | ------- |
