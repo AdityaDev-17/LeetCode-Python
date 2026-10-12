@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
+| [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0781-rabbits-in-forest](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0781-rabbits-in-forest) |
+| [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0789-escape-the-ghosts) |
 | [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
+| [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
 ## String
 |  |
 | ------- |
