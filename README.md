@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
+| [0932-beautiful-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
+| [0932-beautiful-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0932-beautiful-array) |
 ## String
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
+| [0932-beautiful-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0932-beautiful-array) |
 ## Simulation
 |  |
 | ------- |
