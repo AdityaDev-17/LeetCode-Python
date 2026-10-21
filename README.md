@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0789-escape-the-ghosts](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
+| [0809-expressive-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0809-expressive-words) |
 | [0840-magic-squares-in-grid](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0809-expressive-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0809-expressive-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0539-minimum-time-difference) |
 | [0748-shortest-completing-word](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0804-unique-morse-code-words) |
+| [0809-expressive-words](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0809-expressive-words) |
 ## Divide and Conquer
 |  |
 | ------- |
