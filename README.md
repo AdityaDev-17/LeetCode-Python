@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
 | [0932-beautiful-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0932-beautiful-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
 | [0932-beautiful-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0932-beautiful-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0059-spiral-matrix-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Minimax
 |  |
 | ------- |
@@ -510,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0786-k-th-smallest-prime-fraction) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
