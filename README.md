@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0910-smallest-range-ii) |
 | [0932-beautiful-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0932-beautiful-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Minimax
 |  |
 | ------- |
@@ -518,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Enumeration
+|  |
+| ------- |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 <!---LeetCode Topics End-->
