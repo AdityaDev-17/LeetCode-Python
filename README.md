@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0229-majority-element-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0932-beautiful-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0932-beautiful-array) |
 ## Simulation
 |  |
@@ -520,11 +523,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0658-find-k-closest-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Queue
@@ -543,4 +548,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
