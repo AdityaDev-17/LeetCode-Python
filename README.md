@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0491-non-decreasing-subsequences) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0447-number-of-boomerangs](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0447-number-of-boomerangs) |
 | [0457-circular-array-loop](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0457-circular-array-loop) |
+| [0491-non-decreasing-subsequences](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0523-continuous-subarray-sum) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0491-non-decreasing-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0491-non-decreasing-subsequences) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Counting
 |  |
