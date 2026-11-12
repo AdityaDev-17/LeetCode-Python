@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0139-word-break) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0581-shortest-unsorted-continuous-subarray) |
