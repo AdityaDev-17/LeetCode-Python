@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0268-missing-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0220-contains-duplicate-iii) |
 | [0658-find-k-closest-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 ## Quicksort
 |  |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0220-contains-duplicate-iii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Heap (Priority Queue)
 |  |
