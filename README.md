@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0287-find-the-duplicate-number) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 ## Quicksort
 |  |
@@ -562,11 +564,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
@@ -596,8 +600,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0239-sliding-window-maximum) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0051-n-queens) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaDev-17/LeetCode-Python/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
